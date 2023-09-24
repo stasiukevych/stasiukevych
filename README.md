@@ -3,4 +3,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stasiukevych&show_icons=true&theme=radical\&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasiukevych\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasiukevych&theme=radical\&layout=compact)
