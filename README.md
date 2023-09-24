@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, i'm Anatolii
+🌱 I’m currently learning Jakatra EE and Java ecosystem
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={stasiukevych}&theme={dark}
+
 
 <!--
 **stasiukevych/stasiukevych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
