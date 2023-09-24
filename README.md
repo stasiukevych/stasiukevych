@@ -1,6 +1,6 @@
 ### Hi there 👋, i'm Anatolii
 🌱 I’m currently learning Jakatra EE and Java ecosystem
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={stasiukevych}&theme={dark}
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stasiukevych&show_icons=true&theme=radical)
 
 
 <!--
