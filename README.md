@@ -1,5 +1,5 @@
 ### Hi there 👋, i'm Anatolii
-🌱 I’m currently know about Jakatra EE and Java ecosystem
+🌱 I’m currently know about Jakatra EE and Java ecosystem <br/>
 ⏱️I’m currently focusing on FullStack ecosystem
 
 
