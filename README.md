@@ -14,7 +14,9 @@
   ✨ Creating bugs since 2019<br>
   📚 I'm currently learning Full-Stack<br>
   🎯 Goals: do full development in one face<br>
-  🎲 Fun fact: have a playstation5-slim, basketball fan</p>
+  🎲 Fun fact: have a playstation5-slim, basketball fan
+</p>
+
 ###
 
 <h2 align="left">I code with</h2>
