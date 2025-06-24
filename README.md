@@ -1,7 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stasiukevych&count_private=true&show_icons=true&theme=radical\&rank_icon=github#gh-dark-mode-only)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasiukevych&count_private=true&theme=radical\&layout=compact)
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
